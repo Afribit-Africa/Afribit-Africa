@@ -10,9 +10,9 @@ Afribit brings Bitcoin education, local businesses and community projects togeth
 
 ## The Circular Economy
 
-| Learn | Earn | Spend |
-| --- | --- | --- |
-| Practical Bitcoin education and community learning. | Waste collection, upcycling and local enterprise. | Bitcoin payments at neighbourhood businesses. |
+1. **Learn:** practical Bitcoin education and community learning.
+2. **Earn:** waste collection, upcycling and local enterprise.
+3. **Spend:** Bitcoin payments at neighbourhood businesses.
 
 These activities belong together. Learning helps people use the tools; earning creates a reason to use them; local merchants give that value somewhere to circulate.
 
@@ -24,7 +24,7 @@ These activities belong together. Learning helps people use the tools; earning c
 
 Our Builders develop the software behind this work: collection records, Lightning utilities, merchant mapping and community-network tools.
 
-**[Afribit-Kibera is our engineering organisation](https://github.com/Afribit-Kibera).** Start there for the project catalogue, source code and contribution links. This profile introduces the community work those projects support.
+**[Afribit-Kibera is our engineering organisation](https://github.com/Afribit-Kibera).** Start there for the project catalogue, source code and contribution links.
 
 We contribute software and technical support to the locally operated **3 West Satenet** network. Afribit is not an internet service provider. Our local economic intelligence work is a collaboration with [Insats](https://insats.org).
 
