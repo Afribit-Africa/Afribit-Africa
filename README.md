@@ -1,0 +1,34 @@
+<img src="https://raw.githubusercontent.com/Afribit-Africa/Afribit-Africa/main/assets/afribit-logo.png" alt="Afribit Africa" width="112">
+
+# Afribit Africa
+
+**A community-led Bitcoin circular economy in Kibera, Nairobi.**
+
+[Our work](https://afribit.africa) | [Meet the Builders](https://afribit.africa/builders) | [Explore the code](https://github.com/Afribit-Kibera) | [Get in touch](https://afribit.africa/contact)
+
+Afribit brings Bitcoin education, local businesses and community projects together in Kibera. We help people learn, earn and use sats in everyday trade, with tools shaped by the people who use them.
+
+## The Circular Economy
+
+| Learn | Earn | Spend |
+| --- | --- | --- |
+| Practical Bitcoin education and community learning. | Waste collection, upcycling and local enterprise. | Bitcoin payments at neighbourhood businesses. |
+
+These activities belong together. Learning helps people use the tools; earning creates a reason to use them; local merchants give that value somewhere to circulate.
+
+- **Education:** community sessions and the [Bitcoin Studio](https://afribit.africa/studio), with audio and synchronised text.
+- **Local trade:** [merchant discovery](https://afribit.africa/merchants) and support for businesses accepting Bitcoin.
+- **Community projects:** waste management, women's upcycling and practical tools for local organisers.
+
+## The Afribit Builders
+
+Our Builders develop the software behind this work: collection records, Lightning utilities, merchant mapping and community-network tools.
+
+**[Afribit-Kibera is our engineering organisation](https://github.com/Afribit-Kibera).** Start there for the project catalogue, source code and contribution links. This profile introduces the community work those projects support.
+
+We contribute software and technical support to the locally operated **3 West Satenet** network. Afribit is not an internet service provider. Our local economic intelligence work is a collaboration with [Insats](https://insats.org).
+
+## Work With Us
+
+Developers, educators, local organisers and partners can reach the team through [afribit.africa/contact](https://afribit.africa/contact).
+
