@@ -1,4 +1,9 @@
-<img src="https://raw.githubusercontent.com/Afribit-Africa/Afribit-Africa/main/assets/afribit-logo.png" alt="Afribit Africa" width="112">
+<picture>
+  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afribit-Kibera/.github/main/profile/assets/community-mobile-dark.svg">
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Afribit-Kibera/.github/main/profile/assets/community-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afribit-Kibera/.github/main/profile/assets/community-desktop-dark.svg">
+  <img src="https://raw.githubusercontent.com/Afribit-Kibera/.github/main/profile/assets/community-desktop-light.svg" alt="Afribit Africa. Learn. Earn. Spend. A community-led Bitcoin circular economy in Kibera." width="100%">
+</picture>
 
 # Afribit Africa
 
